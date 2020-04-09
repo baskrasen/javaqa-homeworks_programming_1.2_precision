@@ -11,6 +11,6 @@
 
 ### Результаты тестирования
 
-1. Код работает некореектно, сумма скидок считается неверно. [Ссылка](https://github.com/baskrasen/javaqa-homeworks_programming_1.2_precision/issues) на issue
+1. Код работает некорректно, сумма скидок считается неверно. [Ссылка](https://github.com/baskrasen/javaqa-homeworks_programming_1.2_precision/issues) на issue
 ### Рекомендации
 Отсутствуют
